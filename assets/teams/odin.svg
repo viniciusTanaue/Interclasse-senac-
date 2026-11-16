@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="gradOdin" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#303F9F"/>
+      <stop offset="100%" stop-color="#1A237E"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="46" fill="url(#gradOdin)" stroke="#FFD54F" stroke-width="4"/>
+  <!-- Olho de Odin / Corvos -->
+  <path d="M22 50 Q50 25 78 50 Q50 75 22 50 Z" fill="#FFFFFF" opacity="0.9"/>
+  <circle cx="50" cy="50" r="12" fill="#F57C00"/>
+  <circle cx="50" cy="50" r="6" fill="#1A237E"/>
+  <text x="50" y="94" font-family="sans-serif" font-weight="900" font-size="9" fill="#FFFFFF" text-anchor="middle">ODIN</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="gradOdisseia" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#283593"/>
+      <stop offset="100%" stop-color="#00695C"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="46" fill="url(#gradOdisseia)" stroke="#F57C00" stroke-width="4"/>
+  <!-- Barco Odisseia / Rosa dos ventos -->
+  <path d="M25 60 C35 72 65 72 75 60 L68 55 L32 55 Z" fill="#FFFFFF"/>
+  <path d="M50 25 L50 55 L38 45 Z" fill="#FFE082"/>
+  <path d="M52 28 L52 53 L62 43 Z" fill="#FFFFFF"/>
+  <text x="50" y="94" font-family="sans-serif" font-weight="900" font-size="8.5" fill="#FFFFFF" text-anchor="middle">ODISSEIA</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 90" fill="none">
+  <!-- Símbolo Senac moderno com as duas folhas/arcos característicos -->
+  <path d="M42 22C42 22 18 36 18 56C18 70 30 78 44 78C58 78 70 68 70 52C70 36 54 22 42 22Z" fill="#F57C00"/>
+  <path d="M52 14C52 14 74 26 74 46C74 58 64 68 52 70C66 68 78 54 78 38C78 22 62 14 52 14Z" fill="#1565C0"/>
+  
+  <!-- Tipografia Senac -->
+  <text x="96" y="55" font-family="'Inter', 'Segoe UI', -apple-system, sans-serif" font-weight="900" font-size="38" fill="#1565C0" letter-spacing="-1">Senac</text>
+  
+  <!-- Subtítulo Bauru Interclasse -->
+  <text x="98" y="73" font-family="'Inter', 'Segoe UI', -apple-system, sans-serif" font-weight="700" font-size="11" fill="#F57C00" letter-spacing="3.5">BAURU • INTERCLASSE 2026</text>
+</svg>

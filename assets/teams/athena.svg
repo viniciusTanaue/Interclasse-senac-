@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="gradAthena" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1565C0"/>
+      <stop offset="100%" stop-color="#0D47A1"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="46" fill="url(#gradAthena)" stroke="#F57C00" stroke-width="4"/>
+  <!-- Ícone Elmo / Sabedoria Atena -->
+  <path d="M50 20 L68 35 L65 58 C65 72 50 82 50 82 C50 82 35 72 35 58 L32 35 Z" fill="#FFFFFF" opacity="0.95"/>
+  <path d="M50 26 L60 38 L50 48 L40 38 Z" fill="#F57C00"/>
+  <circle cx="50" cy="62" r="5" fill="#1565C0"/>
+  <text x="50" y="94" font-family="sans-serif" font-weight="900" font-size="9" fill="#FFFFFF" text-anchor="middle">ATHENA</text>
+</svg>
